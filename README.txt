@@ -26,5 +26,6 @@ Netlify Dashboard > Your Site > Forms > contact > Form notifications > Add email
 
 Contact:
 Email: 7artsupportofficial@gmail.com
+Updated for Vercel deployment.
 Phone / WhatsApp: +91 9031193921
 Address: Noida Sector 44, Delhi NCR, Uttar Pradesh (201303)
